@@ -5,3 +5,4 @@ masters in mba
 Terraform certification Training
 python scripting
 jenkins Training
+argocd training
