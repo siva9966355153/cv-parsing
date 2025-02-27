@@ -9,3 +9,5 @@ argocd training
 logic to send emails
 created branch siva
 python code to send welcome sms to my student
+.net
+datascience
