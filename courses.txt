@@ -6,3 +6,4 @@ Terraform certification Training
 python scripting
 jenkins Training
 argocd training
+logic to send emails
